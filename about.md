@@ -4,8 +4,9 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>After discovering my passion for high-quality sound as an intern at Burmester Audiosystems, I shifted my focus at film school entirely to sound for film. Through various student film projects, I landed 2018 at rotor film, where I continued learning the ins and outs of sound for picture by working with sound designers and re-recording mixers from all around the world.
-Today I’m an MPSE-nominated full-time recording mixer and the technical lead of rotor film's sound division. Continuing my 70 year old family tradition of working in the film business.</p>
+<p>After discovering my passion for high-quality sound as an intern at Burmester Audiosystems, I shifted my focus at film school entirely to sound for film. Through various student film projects, I landed 2018 at rotor film, where I continued learning the ins and outs of sound for picture by working with sound designers and re-recording mixers from all around the world.</p>
+
+<p>Today I’m an MPSE-nominated full-time recording mixer and the technical lead of rotor film's sound division. Continuing my 70 year old family tradition of working in the film business.</p>
 
 
 <h2>Awards</h2>
