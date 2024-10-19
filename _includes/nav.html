@@ -25,7 +25,7 @@
         {% if site.projects == true %}
             {% if page.title != "Projects" %}
                 <li class="item">
-                    <a class="link" href="https://rotor-film.com">RotorFilm</a>
+                    <a class="link" href="https://rotor-film.com">Work</a>
                 </li>
             {% endif %}
         {% endif %}
@@ -34,14 +34,6 @@
             <li class="item">
                 <a class="link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">IMDB</a>
             </li>
-        {% endif %}
-
-        {% if site.projects == true %}
-            {% if page.title != "Projects" %}
-                <li class="item">
-                    <a class="link" href="https://www.crew-united.com/de/Alexander-Wunsch_603903.html">CrewUnited</a>
-                </li>
-            {% endif %}
         {% endif %}
     </ul>
 </nav>
