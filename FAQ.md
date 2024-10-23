@@ -1,6 +1,6 @@
 # FAQ:
 
-- Article: How to Install Jekyll - by [Arti Annaswamy](https://github.com/aannasw). [Part 1](https://artiannaswamy.com/build-a-github-blog-part-1) and [Part 2](https://artiannaswamy.com/build-a-github-blog-part-2)
+- Article: How to Install Jekyll - by [Arti Annaswamy](https://github.com/aannasw). [Part 1](https://artiannaswamy.com/build-a-github-tools-part-1) and [Part 2](https://artiannaswamy.com/build-a-github-tools-part-2)
 - [How to build and run a Jekyll site in a Docker container](https://mehmandarov.com/disposable-docker-containers/)
 - [Emojis in the projects list?](https://github.com/sergiokopplin/indigo/issues/72)
 - [Nokogiri dependencie problems?](https://github.com/sergiokopplin/indigo/issues/81)
