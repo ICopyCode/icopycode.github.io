@@ -19,6 +19,8 @@ layout: page
 <h2>Recent Projects</h2>
 
 <ul>
+	<li><a href="https://www.imdb.com/title/tt29267609">HAPS - Re-Recording Mixer</a></li>
+	<li><a href="https://www.crew-united.com/de/Feste-feiern-aka-Familienfedern-Kissenschlacht__333641.html">Feste Feiern - Re-Recording Mixer</a></li>
 	<li><a href="https://www.imdb.com/title/tt29267609">Hameln - Re-Recording Mixer</a></li>
 	<li><a href="https://www.crew-united.com/de/Kundschafter-des-Friedens-2__313959.html">Kundschafter des Friedens 2 - Premix Re-Recording Mixer</a></li>
 	<li><a href="https://www.imdb.com/title/tt29465351">Wäldern - Re-Recording Mixer</a></li>
